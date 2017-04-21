@@ -1,5 +1,9 @@
+/*
+ * FIle is based on test file given by Brandon Dixon - Professor at Univerity of Alabama
+ */
+
 #include <stdio.h>
-#include "BSTs.cpp"
+#include "BST.cpp"
 #include "Heap.cpp"
 
 
